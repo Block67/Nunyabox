@@ -100,33 +100,13 @@
                         <div class="home-three-slide-face">
                             <div class="home-three-slide-text">
                                 <h1>Cours en ligne attrayants <span>&</span> accessibles pour tous</h1>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget aenean accumsan
-                                    bibendum gravida maecenas augue elementum et</p>
-                            </div>
-                            <div class="banner-three-content">
-                                <form class="form" action="../../external.html?link=https://dreamslms.dreamguystech.com/html/course-list.html">
-                                    <div class="form-inner-three">
-                                        <div class="input-group">
-                                            <input type="email" class="form-control" placeholder="Search School, Online eductional centers, etc">
-                                            <span class="drop-detail-three">
-                                                <select class="form-three-select select">
-                                                    <option>Select category</option>
-                                                    <option>Angular</option>
-                                                    <option>Node Js</option>
-                                                    <option>React</option>
-                                                    <option>Python</option>
-                                                </select>
-                                            </span>
-                                            <button class="btn btn-three-primary sub-btn" type="submit"><i class="fas fa-arrow-right"></i></button>
-                                        </div>
-                                    </div>
-                                </form>
+                                <p>Nunyabox, votre passerelle vers le savoir, propose une vaste bibliothèque de cours en ligne adaptés à tous les niveaux. Préparez-vous à apprendre, évoluer et réussir.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-4 col-md-6 col-12" data-aos="fade-up">
                         <div class="girl-slide-img aos">
-                            <img class="img-fluid" src="assets/img.jpg" alt>
+                            <img class="img-fluid" src="{{ asset('../assets/Learning languages-cuate.svg') }}" alt>
                         </div>
                     </div>
                 </div>
@@ -213,7 +193,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-12" data-aos="fade-right">
                         <div class="master-three-images">
                             <div class="master-three-left">
-                                <img class="img-fluid" src="assets/img/students/career.png" alt="image-banner" title="image-banner">
+                                <img class="img-fluid" src="{{ asset('../assets/Education-cuate.svg') }}" alt="image-banner" title="image-banner">
                             </div>
                         </div>
                     </div>
@@ -3073,74 +3053,19 @@
 
         <section class="accelerate-cloud-three">
             <div class="container">
-                <div class="shapes-three-right">
-                    <img class="accelerate-one" src="assets/img/bg/shape-1.png" alt>
-                    <img class="accelerate-two" src="assets/img/bg/pattern-03.png" alt>
-                </div>
                 <div class="shapes-three-left">
                     <img class="accelerate-three" src="assets/img/bg/pattern-02.png" alt>
-                    <img class="accelerate-four" src="assets/img/bg/shape-2.png" alt>
-                    <img class="accelerate-five" src="assets/img/bg/pattern-04.png" alt>
                 </div>
-
-
-                <div class="learn-anything">
-                    <div class="row align-items-center">
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-12" data-aos="fade-up">
-                            <div class="award-three-content-two">
-                                <div class="award-list-info">
-                                    <div class="award-win-icon">
-                                        <img class="img-fluid" src="assets/img/icon-three/time.svg" alt="certified">
-                                    </div>
-                                    <div class="award-list-content">
-                                        <h2>Apprenez n’importe quoi de n’importe où, n’importe quand</h2>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quam dolor fermentum
-                                            massa viverra congue proin. A volutpat eget ultrices velit nunc orci.
-                                            Commodo quis integer a felis ac vel mauris a morbi. Scelerisque </p>
-                                    </div>
-                                </div>
-                                <div class="award-list d-flex align-items-center">
-                                    <span class="award-icon">
-                                        <img src="assets/img/icon-three/check-round-2.svg" alt class="img-fluid">
-                                    </span>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                                </div>
-                                <div class="award-list d-flex align-items-center">
-                                    <span class="award-icon">
-                                        <img src="assets/img/icon-three/check-round-2.svg" alt class="img-fluid">
-                                    </span>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                                </div>
-                                <div class="award-list d-flex align-items-center">
-                                    <span class="award-icon">
-                                        <img src="assets/img/icon-three/check-round-2.svg" alt class="img-fluid">
-                                    </span>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-12" data-aos="fade-right">
-                            <div class="award-three-images-two">
-                                <img class="img-fluid" src="assets/img/students/learn-anything.png" alt="image-banner" title="image-banner">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
                 <div class="development-carrer">
                     <div class="row align-items-center">
                         <div class="col-xl-6 col-lg-6 col-md-6 col-12" data-aos="fade-right">
                             <div class="award-three-images-three">
-                                <img class="img-fluid" src="assets/img/students/certification.png" alt="image-banner" title="image-banner">
+                                <img class="img-fluid" src="assets/Happy student-cuate.svg" alt="image-banner" title="image-banner">
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-6 col-md-6 col-12" data-aos="fade-up">
                             <div class="award-three-content-one">
                                 <div class="award-list-info">
-                                    <div class="award-win-icon">
-                                        <img class="img-fluid" src="assets/img/icon-three/winning.svg" alt="certified">
-                                    </div>
                                     <div class="award-list-content">
                                         <h2>Certification for solid development of your Carrer</h2>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quam dolor fermentum
@@ -3149,16 +3074,7 @@
                                     </div>
                                 </div>
                                 <div class="award-list d-flex align-items-center">
-                                    <span class="award-icon">
-                                        <img src="assets/img/icon-three/check-round-3.svg" alt class="img-fluid">
-                                    </span>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                                </div>
-                                <div class="award-list d-flex align-items-center">
-                                    <span class="award-icon">
-                                        <img src="assets/img/icon-three/check-round-3.svg" alt class="img-fluid">
-                                    </span>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                    <p>Explorer des sujets variés à votre rythme. Développez de nouvelles compétences avec facilité et plaisir.</p>
                                 </div>
                             </div>
                         </div>
